@@ -1,0 +1,47 @@
+[
+	{
+		"id": "1",
+		"apiName": "api-1",
+		"score": "1",
+		"recommendation": "Good",
+		"categoryStatus":[{
+			
+			"id": "1",
+			"category": "documentation",
+			"status": "yes",
+			"comments": "high"
+			
+		}
+		,
+		{
+			"id": "2",
+			"category": "upload",
+			"status": "yes",
+			"comments": "high"
+		}],
+		
+		"results": [{
+			
+			
+			"id": "1",
+			"category": "documentation",
+			"requirement_is_met": "yes",
+			"score_band": "high",
+			"recomended": "yes",
+			"comment": "yes it is",
+			"assement_type": "manual"
+		},
+		{
+			
+			
+			"id": "2",
+			"category": "upload",
+			"requirement_is_met": "yes",
+			"score_band": "high",
+			"recomended": "yes",
+			"comment": "yes it is",
+			"assement_type": "manual"
+		}
+		]
+	}
+]

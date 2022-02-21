@@ -1,0 +1,193 @@
+{
+   "id":"1",
+   "apiName":"api-1",
+   "score":"2",
+   "recommendation":"good",
+   "categoryStatus":[
+      {
+         "id":"1",
+         "category":"Usability",
+         "status":"Passed",
+         "comments":"This is being used as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"2",
+         "category":"Consistency",
+         "status":"Passed",
+         "comments":"This API has been designed as per openAPI",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"3",
+         "category":"Documentation",
+         "status":"Passed",
+         "comments":"None of the endpoints",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"4",
+         "category":"Flexibility",
+         "status":"Failed",
+         "comments":"This API is flexible as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"5",
+         "category":"Performance",
+         "status":"Failed",
+         "comments":"This API has good performance as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"6",
+         "category":"Scalability",
+         "status":"Passed",
+         "comments":"This API scalable as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"7",
+         "category":"Security",
+         "status":"Failed",
+         "comments":"This API secured as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"8",
+         "category":"Support",
+         "status":"Passed",
+         "comments":"This API supports as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"9",
+         "category":"Testing",
+         "status":"Passed",
+         "comments":"This API is tested as per standards",
+         "additionalProperties":{
+            
+         }
+      }
+   ],
+   "results":[
+      {
+         "id":"1.1.1",
+         "category":"Usability",
+         "requirementIsMet":"Yes",
+         "scoreBand":"High",
+         "recomended":"Yes",
+         "comment":"This is being used as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"2.2.2",
+         "category":"Consistency",
+         "requirementIsMet":"Yes",
+         "scoreBand":"High",
+         "recomended":"Yes",
+         "comment":"This API has been designed as per openAPI",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"3.3.3",
+         "category":"Documentation",
+         "requirementIsMet":"Yes",
+         "scoreBand":"Medium",
+         "recomended":"Yes",
+         "comment":"None of the endpoints",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"4.4.4",
+         "category":"Flexibility",
+         "requirementIsMet":"Yes",
+         "scoreBand":"High",
+         "recomended":"Yes",
+         "comment":"This API is flexible as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"5.5.5",
+         "category":"Performance",
+         "requirementIsMet":"Yes",
+         "scoreBand":"Medium",
+         "recomended":"Yes",
+         "comment":"This API has good performance as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"6.6.6",
+         "category":"Scalability",
+         "requirementIsMet":"Yes",
+         "scoreBand":"High",
+         "recomended":"Yes",
+         "comment":"This API scalable as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"7.7.7",
+         "category":"Security",
+         "requirementIsMet":"Yes",
+         "scoreBand":"Medium",
+         "recomended":"Yes",
+         "comment":"This API secured as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"8.8.8",
+         "category":"Support",
+         "requirementIsMet":"Yes",
+         "scoreBand":"Medium",
+         "recomended":"Yes",
+         "comment":"This API supports as per standards",
+         "additionalProperties":{
+            
+         }
+      },
+      {
+         "id":"9.9.9",
+         "category":"Testing",
+         "requirementIsMet":"Yes",
+         "scoreBand":"High",
+         "recomended":"Yes",
+         "comment":"This API is tested as per standards",
+         "additionalProperties":{
+            
+         }
+      }
+   ],
+   "additionalProperties":{
+      
+   }
+}
